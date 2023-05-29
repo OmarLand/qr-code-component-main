@@ -42,6 +42,10 @@
         font-size : 18px;
     }
 
+    .attribution{
+        font-size: 14px;
+    }
+
 }
 
 /* Desktop design */
@@ -86,5 +90,9 @@
         font-weight: 300;
         color     : grey;
         font-size : 18px;
+    }
+
+    .attribution{
+        font-size: 14px;
     }
 }
